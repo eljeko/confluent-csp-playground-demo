@@ -1,0 +1,9 @@
+/terraform.tfstate*
+.idea
+.terraform
+dockerhost.pem
+/.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfvars
+/inventory
+cflt_aws_README.md
